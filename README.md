@@ -1,3 +1,5 @@
+------------------//Falta incorporar el funcionamiento de las cajas y otros detalles//-------------------------------
+
 TAREA:
 
 Imagina que estás creando un juego de supermercado en tu computadora. Necesitamos que escribas un programa en Java para que todo funcione como en la vida real.
@@ -14,3 +16,5 @@ Tu misión:
 Crea los productos: Cada producto tiene un nombre, precio y cantidad.
 Registra las compras: Cuando un cliente compra, se crea una transacción. Esta transacción guarda qué productos compró, cuánto pagó y en qué caja lo hizo.
 Simula una compra: Haz que un cliente vaya a una caja, compre varios productos y pague. ¡Muestra en pantalla todo lo que compró y cuánto pagó!
+
+
